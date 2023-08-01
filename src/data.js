@@ -3,8 +3,8 @@ export const data = [
     id: 1,
     name: 'Portfolio',
     image:
-      'https://raw.githubusercontent.com/bxzzxnx/To-Do-App/main/img/demo.jpg',
-    github: 'https://github.com/bxzzxnx/Valoquiz',
+      'https://raw.githubusercontent.com/bxzzxnx/Portfolio/main/img/demo.png',
+    github: 'https://github.com/bxzzxnx/Portfolio',
   },
   {
     id: 2,
